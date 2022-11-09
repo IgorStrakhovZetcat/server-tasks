@@ -1,0 +1,71 @@
+{
+  "tasks": [
+    {
+      "title": "Task1",
+      "id": 249592,
+      "assigneeName": "Assignee",
+      "date": "нояб. 3, 2022 13:49",
+      "status": "Open",
+      "watchers": 0
+    },
+    {
+      "id": 1,
+      "title": "Task1",
+      "assigneeName": "Assignee",
+      "date": "",
+      "watchers": 0,
+      "description": "This is a new task from rest server",
+      "status": "Open"
+    },
+    {
+      "id": 249597,
+      "title": "Task1",
+      "assigneeName": "fdhgdf",
+      "date": "нояб. 3, 2022 13:49",
+      "status": "Open",
+      "watchers": 0
+    },
+    {
+      "id": 249598,
+      "title": "Task2",
+      "assigneeName": "Assignee",
+      "date": "нояб. 3, 2022 15:35",
+      "watchers": 0,
+      "description": "Somethisng",
+      "status": "Close"
+    },
+    {
+      "id": 249599,
+      "title": "fsefsfe",
+      "assigneeName": "fdhgdf",
+      "date": "нояб. 3, 2022 16:54",
+      "relatedTickets": [
+        249592,
+        249598,
+        1
+      ],
+      "status": "Open",
+      "description": "4343634634"
+    },
+    {
+      "id": 249600,
+      "title": "Task2",
+      "assigneeName": "fdhgdf",
+      "date": "нояб. 3, 2022 17:8",
+      "relatedTickets": [],
+      "description": "Descriptiondgdrgsafasfasfasf sdvdsfvdf"
+    },
+    {
+      "id": 249601,
+      "title": "Task titlegrdg",
+      "assigneeName": "fdhgdf",
+      "date": "нояб. 3, 2022 18:31",
+      "relatedTickets": [
+        249597,
+        249599,
+        1,
+        249598
+      ]
+    }
+  ]
+}
